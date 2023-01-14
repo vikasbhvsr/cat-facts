@@ -103,7 +103,7 @@
 					/>
 				</svg>
 			{:else}
-				{data.fact}
+				{@html data.fact}
 			{/if}
 		</p>
 	</div>
