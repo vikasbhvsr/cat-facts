@@ -1,7 +1,6 @@
 <script>
-	import { comment } from 'postcss';
-	import Header from '$lib/components/Header.svelte';
 	import '../app.css';
+	import Header from '$lib/components/Header.svelte';
 </script>
 
 <div class="bg-gradient-to-r from-cyan-200 to-blue-200 min-h-screen">
